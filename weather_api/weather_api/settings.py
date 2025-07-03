@@ -28,6 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
+OPENWEATHER_API_KEY = config('OPENWEATHER_API_KEY')
 
 # Application definition
 
